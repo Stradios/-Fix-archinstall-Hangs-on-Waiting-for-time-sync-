@@ -1,4 +1,5 @@
 # 🛠️ Fix: `archinstall` Hangs on "Waiting for time sync"
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 ## ❗ Problem
 
